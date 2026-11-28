@@ -1,6 +1,0 @@
-[Felucca City]
-008941100
-008941200
-
-[Felucca Dungeon]
-009005000
