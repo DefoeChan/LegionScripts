@@ -1,6 +1,0 @@
-[Ilshenar Hub]
-208941100
-208941200
-
-[Ilshenar Dungeon]
-209005000
