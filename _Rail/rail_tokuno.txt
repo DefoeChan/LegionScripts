@@ -1,6 +1,0 @@
-[Tokuno Village]
-408941100
-408941200
-
-[Tokuno Dungeon]
-409005000
